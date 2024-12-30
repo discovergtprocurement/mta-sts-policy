@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce (or "testing" if you want to test first)
-mx: <your-mx-record-here.com>
-max-age: 604800 (or number of seconds emails can be cached)
+mode: enforce
+mx: discovergtprocurement-com.mail.protection.outlook.com
+max_age: 604800
